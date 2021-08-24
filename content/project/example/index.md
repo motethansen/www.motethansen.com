@@ -16,8 +16,10 @@ links:
     name: Follow
     url: https://twitter.com/georgecushen
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: Perception of new technologies supplying energy by 2020
+  focal_point: SmartCity
+  filename: https://ars.els-cdn.com/content/image/1-s2.0-S0301421517300393-gr6.jpg
+  alt_text: Perception of new technologies supplying energy by 2020
 url_code: ""
 ---
 This section will be updated with reference project work ...

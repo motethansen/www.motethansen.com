@@ -20,4 +20,4 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-This section will be updated with reference project work ..
+This section will be updated with reference project work ...

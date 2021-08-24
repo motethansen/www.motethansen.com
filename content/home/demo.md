@@ -22,6 +22,6 @@ design:
       - 20px
       - "0"
 ---
-## 👋 Welcome to Michael lab
+## 👋 Welcome to Michael's lab
 
 My lab work is based on experiement and idea sharing. Please follow this page for any interest areas that you may have.

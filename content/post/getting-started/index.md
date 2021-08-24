@@ -25,6 +25,6 @@ image:
   placement: 2
   preview_only: false
 ---
-## This is sesion will be explained more later.
+## This is session will be expanded later.
 
 I am currently working on my Smart City research project, and hope to be able to share more about my experiences soon.

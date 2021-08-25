@@ -6,7 +6,7 @@ widget: blank
 widget_id: michaels-lab
 headless: true
 weight: 15
-title: Academic Template
+title: motethansen
 subtitle: ""
 active: true
 design:

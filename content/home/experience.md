@@ -38,7 +38,7 @@ experience:
   - title: Adjunct Lecturer
     company: James Cook University
     company_url: ''
-   # company_logo: org-x
+    company_logo: '' #org-x
     location: Singapore
     date_start: '2018-03-15'
     date_end: ''

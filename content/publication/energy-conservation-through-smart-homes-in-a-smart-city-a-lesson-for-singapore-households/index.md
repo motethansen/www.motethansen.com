@@ -28,7 +28,7 @@ abstract: Energy-saving is a hot topic due to the proliferation of climate
   relation to smart homes and smart technology, while discussing the maturity of
   existing solutions.
 draft: false
-featured: true
+featured: false
 tags:
   - smarthome
   - smartcity

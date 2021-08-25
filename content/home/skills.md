@@ -28,6 +28,10 @@ feature:
   icon: lightbulb
   icon_pack: far
   name: Design Thinking
+- description: 70%
+  icon: city
+  icon_pack: fas
+  name: Smart City
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

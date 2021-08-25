@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/michaelmotethansen/
 organizations:
-  - name: James Cook University
-    url: https://www.jcu.edu.sg/
+  - name: Thammasat University
+    url: https://ci.tu.ac.th/en
 education:
   courses:
     - course: PhD in integrated science

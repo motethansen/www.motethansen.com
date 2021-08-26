@@ -47,4 +47,4 @@ Michael is an adjunct lecturer at James Cook University in Singapore, where he t
 
 Besides the academic activities, Michael engage in conculting activities on demand basis, related to cloud strategies, business and technology development and Smart City projects.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Michael-Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -40,7 +40,7 @@ item:
   title: Python for Data Science, AI & Development
   url: https://www.coursera.org/learn/python-for-applied-data-science-ai
 - certificate_url: https://coursera.org/share/6c7f0d06f31a5473ef07d3717d118d9b
-  date_end: "2021-04-25"
+  date_end: "2021-04-05"
   date_start: ""
   description: ""
   organization: Coursera

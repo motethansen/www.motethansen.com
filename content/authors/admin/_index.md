@@ -1,12 +1,13 @@
 ---
-title: Michael Hansen
 role: PhD Student
 bio: My research interests include Smart City, Design Thinking and digital
   transformation.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Design Thinking
+  - Smart City
+  - Digital Transformation
+  - AI
+  - IoT
 social:
   - icon: envelope
     icon_pack: fas
@@ -37,11 +38,12 @@ education:
     - course: BSc in Electronic Engineering
       institution: " Technical University of Denmark"
       year: 1993
-email: ""
 superuser: true
 highlight_name: false
+title: Michael Hansen
+email: ""
 ---
-Michael is an adjunct lecturer at James Cook University in SIngapore, where he teach design thinking, collective intelligence and e-business technologies. His research interests include Smart Cities, digital transformation and design thinking. He suports the students ID8 lab, which runs multiple projects ranging from AI based experiements to block chain and IoT solutions. Many of the students also explore the entrepreneurial approach with some of their projects.
+Michael is an adjunct lecturer at James Cook University in Singapore, where he teach design thinking, collective intelligence and e-business technologies. His research interests include Smart Cities, digital transformation and design thinking. He suports the students ID8 lab, which runs multiple projects ranging from AI based experiements to block chain and IoT solutions. Many of the students also explore the entrepreneurial approach with some of their projects.
 
 Besides the academic activities, Michael engage in conculting activities on demand basis, related to cloud strategies, business and technology development and Smart City projects.
 

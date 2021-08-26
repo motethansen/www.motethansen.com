@@ -25,6 +25,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
+  filename: https://i.imgur.com/61mWhbq.jpg
 ---
 ## This is session will be expanded later.
 

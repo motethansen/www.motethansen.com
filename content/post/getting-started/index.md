@@ -1,26 +1,27 @@
 ---
-title: Welcome to Michael's lab
-subtitle: Welcome 👋 to my lab.... this is where you will discover some of my
-  thoughts and projects I am currently working on.
-date: 2020-12-13T00:00:00Z
 summary: Welcome 👋 We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar
   with everything in no time.
 draft: false
-featured: false
 authors:
-  - admin
-  - 吳恩達
-lastmod: 2020-12-13T00:00:00Z
+  - Michael
+lastmod: 2020-12-13T00:00:00.000Z
+title: Welcome to Michael's lab
+subtitle: Welcome 👋 to my lab.... this is where you will discover some of my
+  thoughts and projects I am currently working on.
+date: 2020-12-13T00:00:00.000Z
+featured: false
 tags:
   - Academic
-  - 开源
 categories:
   - SmartCity
-  - 智慧城市
+  - DesignThinking
+  - AI
+  - IoT
+  - DigitalTransformation
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: "Image credit: [Innovate](https://i.imgur.com/61mWhbq.jpg)"
   focal_point: ""
   placement: 2
   preview_only: false

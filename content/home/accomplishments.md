@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
+- certificate_url: https://coursera.org/share/508a87f4c39962a554778e4386dedd1c
+  date_end: "2021-03-01"
+  date_start: ""
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Tools for Data Science
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://coursera.org/share/d55b49709386ec9272154b7f1fa3dd79
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2021-05-02"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Python for Data Science, AI & Development
+  url: https://www.coursera.org/learn/python-for-applied-data-science-ai
+- certificate_url: https://coursera.org/share/6c7f0d06f31a5473ef07d3717d118d9b
+  date_end: "2021-04-25"
+  date_start: ""
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Smart Cities – Management of Smart Urban Infrastructures
   url: ""
 
 design:

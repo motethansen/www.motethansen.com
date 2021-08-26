@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: info@vizneo.com
+#email: info@vizneo.com
 #phone: 888 888 88 88
-address:
-  street: 6001 Beach Road
-  city: Singapore
+#address:
+#  street: 6001 Beach Road
+#  city: Singapore
   #region: CA
-  postcode: '199589'
-  country: Singapore
-  country_code: SG
-coordinates:
-  latitude: '1.3086929'
-  longitude: '103.864260'
+#  postcode: '199589'
+#  country: Singapore
+#  country_code: SG
+#coordinates:
+#  latitude: '1.3086929'
+#  longitude: '103.864260'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
 #  - 'Monday 10:00 to 13:00'

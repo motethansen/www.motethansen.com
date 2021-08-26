@@ -24,4 +24,4 @@ design:
 ---
 ## 👋 Welcome to Michael's lab
 
-My lab work is based on experiement and idea sharing. Please follow this page for any interest areas that you may have.
+This is where I experiment and explore ideas. Please follow this page for any interest areas that you may have.

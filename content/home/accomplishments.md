@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://coursera.org/share/508a87f4c39962a554778e4386dedd1c
-  date_end: "2021-03-01"
-  date_start: ""
+  date_end: ""
+  date_start: "2021-03-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
@@ -40,8 +40,8 @@ item:
   title: Python for Data Science, AI & Development
   url: https://www.coursera.org/learn/python-for-applied-data-science-ai
 - certificate_url: https://coursera.org/share/6c7f0d06f31a5473ef07d3717d118d9b
-  date_end: "2021-04-05"
-  date_start: ""
+  date_end: ""
+  date_start: "2021-04-05"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org

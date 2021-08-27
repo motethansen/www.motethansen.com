@@ -1,20 +1,20 @@
 ---
 slides: example
 url_pdf: ""
-title: Smart City value proposition
 summary: This section will be updated with reference project work ..
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: smartcity_valueproposition
 url_slides: ""
+title: Smart City value proposition
 subtitle: how does Smart Cities plan projects to develop successful project outcome?
 tags:
-  - Deep Learning
+  - SmartCity
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/motethansen
 image:
   caption: Perception of new technologies supplying energy by 2020
   focal_point: SmartCity

@@ -1,7 +1,5 @@
 ---
-summary: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+summary: Welcome 👋 .... Yep, I will soon update with some posts here... Stay tuned.
 draft: false
 authors:
   - Michael

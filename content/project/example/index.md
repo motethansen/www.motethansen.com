@@ -4,6 +4,7 @@ url_pdf: ""
 summary: This section will be updated with reference project work ..
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
+featured: true
 external_link: smartcity_valueproposition
 url_slides: ""
 title: Smart City value proposition

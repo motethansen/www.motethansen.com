@@ -4,6 +4,8 @@ subtitle: How do we all see our city?
 date: 2021-08-28T07:56:59.144Z
 draft: false
 featured: true
+tags:
+  - SmartCity
 image:
   filename: shiny-night-city.jpg
   focal_point: Smart

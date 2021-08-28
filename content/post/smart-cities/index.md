@@ -6,6 +6,8 @@ draft: false
 featured: true
 tags:
   - SmartCity
+categories:
+  - SmartCity
 image:
   filename: shiny-night-city.jpg
   focal_point: Smart
